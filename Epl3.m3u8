@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=384000,RESOLUTION=1280x720
-https://rushhub.xyz/d1/stream.m3u8?cid=124&chunks=667cda94d82c07bdfd0796562b6f00defd3268d99ab7ed9f2bae74644370b30babb6bad35237a57c4ee6ee0f939ffc27d04782b245402060a1bf079c5cab5ca1&vtoken=
+https://rushhub.xyz/d1/stream.m3u8?cid=343&chunks=b2e7f7cbea1326ae5d5d9962107aa18561ba83696e01c7bf9560cb731a273f627a0a21cadadfb2d775d47aea387ec80b0d173936d98ecae692d1206d8ad70619&vtoken=
 #EXT-X-STREAM-INF:BANDWIDTH=280000,RESOLUTION=854x480
-https://rushhub.xyz/d1/stream.m3u8?cid=124&chunks=667cda94d82c07bdfd0796562b6f00defd3268d99ab7ed9f2bae74644370b30babb6bad35237a57c4ee6ee0f939ffc27d04782b245402060a1bf079c5cab5ca1&vtoken=
+https://rushhub.xyz/d1/stream.m3u8?cid=343&chunks=b2e7f7cbea1326ae5d5d9962107aa18561ba83696e01c7bf9560cb731a273f627a0a21cadadfb2d775d47aea387ec80b0d173936d98ecae692d1206d8ad70619&vtoken=
 #EXT-X-STREAM-INF:BANDWIDTH=192000,RESOLUTION=640x360
-https://rushhub.xyz/d1/stream.m3u8?cid=124&chunks=667cda94d82c07bdfd0796562b6f00defd3268d99ab7ed9f2bae74644370b30babb6bad35237a57c4ee6ee0f939ffc27d04782b245402060a1bf079c5cab5ca1&vtoken=
+https://rushhub.xyz/d1/stream.m3u8?cid=343&chunks=b2e7f7cbea1326ae5d5d9962107aa18561ba83696e01c7bf9560cb731a273f627a0a21cadadfb2d775d47aea387ec80b0d173936d98ecae692d1206d8ad70619&vtoken=
